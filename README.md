@@ -5,7 +5,7 @@ I am currently pursuing my Master of Science in Information Technology and Manag
 - 🔭 I’m currently working on SpringBoot.
 - 🌱 I’m currently learning
   - Data Structure and Algorithms on [LeetCode](https://leetcode.com/vivekmakani2112/) 
-  - Tools and technologies from ![[Java](https://github.com/VivekMakani/VivekMakani/assets/59250602/1020cad1-27de-4005-aad9-0adbf61400cd)]() ecosystem.
+  - Tools and technologies from [![Java](https://github.com/VivekMakani/VivekMakani/assets/59250602/1020cad1-27de-4005-aad9-0adbf61400cd)]() ecosystem.
 - 💬 Ask me about anything, I am happy to help.
 - 📬 How to reach me: vxm220058@utdallas.edu
 - 💪 This is where I write, code and solve problems:
