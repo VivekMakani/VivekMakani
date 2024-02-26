@@ -9,6 +9,7 @@ I am currently pursuing my Master of Science in Information Technology and Manag
 - 💬 Ask me about anything, I am happy to help.
 - 📬 How to reach me: vxm220058@utdallas.edu
 - 💪 This is where I write, code and solve problems:
-  ![(https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png)](https://leetcode.com/vivekmakani2112/)
+  ![(![image](https://github.com/VivekMakani/VivekMakani/assets/59250602/37b62625-1165-488e-83f5-b1f3c8d44617)
+)](https://leetcode.com/vivekmakani2112/)
 
 
